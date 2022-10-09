@@ -2245,7 +2245,7 @@
     (in_bom yes) (on_board yes)
     (uuid f4fd7d87-6430-4de7-b54d-ccd6f8c2cc48)
     (property "Reference" "R1" (id 0) (at 130.81 71.6534 90))
-    (property "Value" "R_Small" (id 1) (at 131.445 64.135 90))
+    (property "Value" "R_Small" (id 1) (at 124.46 112.395 90))
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 130.81 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
